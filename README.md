@@ -1,0 +1,3 @@
+# dataScience-flight
+
+Purpose of this project is reveal the truth which is behind the delay and consumer choice. Member of this project are professionals. Bahadır is a sophomore student in sabancı university and he has been working on data science since 1997. Berk is also sophomore student in sabanci university and he has been in this businees for five years. Finally i was watching data science tutorials at the time that i was born. These professional power and consisting with these beautiful subject is bringing us the light which will light all the time. Also with these research they nominated to nobel prize in three area.
